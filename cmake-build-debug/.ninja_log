@@ -1,0 +1,7 @@
+# ninja log v6
+2	892	7763600014936693	CMakeFiles/management.dir/main.cpp.obj	6df49d424d2d0c9d
+14	905	7763600015058288	CMakeFiles/management.dir/Customers.cpp.obj	98414e6870a20265
+9	906	7763600015007462	CMakeFiles/management.dir/User.cpp.obj	d73b24eeb72ba92a
+12	906	7763600015027483	CMakeFiles/management.dir/Stock.cpp.obj	90f073136076a84a
+6	1182	7763600014976699	CMakeFiles/management.dir/System.cpp.obj	c3c05b59d1452599
+1182	1363	7763600026733065	management.exe	b0ed50dad023e6a8

@@ -1,0 +1,3 @@
+D:/refa3e/management/cmake-build-debug/CMakeFiles/management.dir
+D:/refa3e/management/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/refa3e/management/cmake-build-debug/CMakeFiles/rebuild_cache.dir
