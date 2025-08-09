@@ -1,64 +1,35 @@
-﻿# Inventory-Management-System
-
-Of course. Here is the professional README.md file for your "Inventory Management System" project, translated entirely into English.
-
-You can copy and paste this code directly into a file named README.md in your Git project folder.
-
 # Inventory Management System
 
-This project is a simple and effective inventory management system, developed using the C++ programming language. The system provides an interactive command-line interface that allows users to manage products, customers, and sales/purchase processes.
+## Overview
+A simple and effective inventory management system developed in C++. This system helps businesses track and manage their inventory efficiently.
 
-## Key Features 🚀
+## Requirements
+- ⚙️ C++ compiler (e.g., GCC, MSVC)
+- 💻 An IDE such as Visual Studio, Code::Blocks, or others
 
-    User Management: Secure user sign-up and login functionality.
+## Installation and Setup
+1. 📥 Clone or download the repository.
+2. 🛠️ Open the project in your preferred IDE.
+3. 🔧 Update your database connection string in the `DependencyInstaller.sc` file.
+4. ▶️ Build and run the project.
 
-    Product Management: Add, update, delete, and search for products in the inventory.
+## Usage
+- ➕ Add new products to the inventory.
+- ✏️ Edit existing product details.
+- 🗑️ Delete products from the inventory.
+- 📊 View reports about the inventory status.
 
-    Customer Management: Add, update, delete, and search for customer data.
+## Testing
+1. ✅ Add some products.
+2. 📝 Modify product details.
+3. ❌ Delete a product.
+4. 📈 Check that the reports update accordingly.
 
-    Transaction Processing: Record sales and purchase operations and update inventory quantities.
+## Contributing
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch.
+3. 🔨 Make your changes.
+4. 📤 Submit a pull request.
 
-    Data Persistence: All user, product, and customer data is saved in .txt files to ensure it is not lost when the program is closed.
-
-## Getting Started ⚙️
-
-To get started with the project, make sure you have a C++ compiler (such as g++) installed on your system.
-
-Prerequisites
-
-    A C++ compiler (g++ or equivalent).
-
-    An operating system with a command-line interface (Windows, Linux, macOS).
-
-Compilation and Execution Steps
-
-    Open the Terminal or Command Prompt in your project directory.
-
-    Compile all the C++ source files (.cpp) to create an executable file.
-    Bash
-
-g++ main.cpp System.cpp User.cpp Stock.cpp Customers.cpp -o app
-
-(You can change the output file name app to any name you prefer.)
-
-Run the program.
-Bash
-
-    ./app
-
-    (If you are using Windows, you might need to type app.exe.)
-
-## Project Structure 📁
-
-The code is organized into multiple files to ensure easy management and scalability:
-
-    main.cpp: The main entry point of the program.
-
-    System.h, System.cpp: Contains the core program logic and menus.
-
-    User.h, User.cpp: Represents the User class and manages login operations.
-
-    Stock.h, Stock.cpp: Represents the Stock class and manages inventory data.
-
-    Customers.h, Customers.cpp: Represents the Customers class and manages their information.
-
+## License
+📝 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
