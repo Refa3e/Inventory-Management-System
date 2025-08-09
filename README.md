@@ -1,35 +1,23 @@
 # Inventory Management System
 
-## Overview
-A simple and effective inventory management system developed in C++. This system helps businesses track and manage their inventory efficiently.
+## 📋 Overview
+A console-based Inventory Management System developed in C++.  
+Features include user sign-up/login, product management, customer management, and sales operations.
 
-## Requirements
-- ⚙️ C++ compiler (e.g., GCC, MSVC)
-- 💻 An IDE such as Visual Studio, Code::Blocks, or others
+## 🛠️ Features
+- 👤 User account sign-up and login (simple validation).
+- 📦 Product management:
+  - Add, update, display, search, and delete products.
+- 👥 Customer management:
+  - Add, update, display, search, and delete customers.
+- 🛒 Sales processing with invoice generation and stock update.
+- 📈 Purchase management (add new stock).
 
-## Installation and Setup
-1. 📥 Clone or download the repository.
-2. 🛠️ Open the project in your preferred IDE.
-3. 🔧 Update your database connection string in the `DependencyInstaller.sc` file.
-4. ▶️ Build and run the project.
+## ⚙️ Requirements
+- C++ compiler supporting C++11 or later.
+- Standard input/output console.
+- No external libraries required.
 
-## Usage
-- ➕ Add new products to the inventory.
-- ✏️ Edit existing product details.
-- 🗑️ Delete products from the inventory.
-- 📊 View reports about the inventory status.
-
-## Testing
-1. ✅ Add some products.
-2. 📝 Modify product details.
-3. ❌ Delete a product.
-4. 📈 Check that the reports update accordingly.
-
-## Contributing
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch.
-3. 🔨 Make your changes.
-4. 📤 Submit a pull request.
-
-## License
-📝 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+## 🚀 Installation & Running
+1. Clone or download the repository.
+2. Compile the code with your preferred C++ compiler, for example:
