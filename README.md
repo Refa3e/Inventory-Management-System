@@ -21,3 +21,27 @@ Features include user sign-up/login, product management, customer management, an
 ## 🚀 Installation & Running
 1. Clone or download the repository.
 2. Compile the code with your preferred C++ compiler, for example:
+3. Run the executable:
+
+4. Follow the console menu instructions to use the system.
+
+## 🔍 Usage
+- First, choose to **Sign Up** or **Login**.
+- After login, select product or customer management.
+- Use menus to add, update, display, search, or delete records.
+- Process sales with automatic stock updates and invoice printing.
+
+## 🧪 Testing
+- Test adding multiple products and customers.
+- Perform update and delete operations.
+- Execute sales to verify stock deduction.
+- Check console outputs for confirmations and errors.
+
+## 🤝 Contributing
+- Fork the repo.
+- Create a feature branch.
+- Submit pull requests with improvements.
+
+## 📄 License
+MIT License.
+
